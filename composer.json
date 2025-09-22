@@ -22,7 +22,7 @@
     "require": {
         "php": "^8.2",
         "spatie/laravel-package-tools": "^1.16",
-        "google/analytics-data": "^0.16",
+        "google/analytics-data": "^0.23",
         "illuminate/contracts": "^10.0||^11.0||^12.0",
         "illuminate/support": "^10.0||^11.0||^12.0",
         "ext-json": "*",
